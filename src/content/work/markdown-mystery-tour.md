@@ -1,19 +1,23 @@
 ---
-title: Sensibilisation de Masse en 2024 ans un village d'AKEPE
+title: Sensibilisation de masse en 2024 dans le village d'Aképé.
 publishDate: 2024-11-03 12:32:00
 img: /assets/stock-1.jpeg
 img_alt: Iridescent ripples of a bright blue and pink liquid
 description: |
  
 tags:
-  - Design
-  - Dev
-  - User Testing
+  - Des
+  - De
+  - User 
 ---
 
 ## Nom du Projet : 
 
-> Sensibilisation de Masse en 2024  dans un village d'AKEPE sur le Choléra pour le compte de l'association SOCIAL WAAKER
+> Sensibilisation de masse en 2024 dans le village d'Aképé sur le choléra pour le compte de l'association Social Waakers.
+
+
+
+
 
 
 

@@ -1,18 +1,18 @@
 ---
-title: Plage Propre. Une activité citoyenne planifier par l'association SOCIAL WAAKERS
+title: Plage Propre. Une activité citoyenne planifier par l'association SOCIAL WAAKERS.
 publishDate: 2024-11-03 
 img: /assets/stock-6.jpeg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
  
 tags:
-  - Design
-  - Branding
+  - De
+  - Br
 ---
 
 ## Nom du Projet : 
 
-> Plage Propre. Une activité citoyenne planifier par l'association SOCIAL WAAKERS
+> Plage Propre. Une activité citoyenne planifier par l'association SOCIAL WAAKERS.
 
 
 ### Contexte et Objectif : 

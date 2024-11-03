@@ -1,20 +1,20 @@
 ---
-title: EIR, Port d'EPI pour le prélèvement d'un cas suspect a COVID
+title: EIR, Port d'EPI pour le prélèvement d'un cas suspect de COVID.
 publishDate: 2024-11-03
 img: /assets/stock-2.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - De
+  - Br
+  - Ba
 ---
 
 
 ## Nom du Projet : 
 
-> EIR (Évaluation Initiale des Risques) et Port d'Équipements de Protection Individuelle (EPI) pour le Prélèvement d'un Cas Suspect de COVID-19
+> EIR (Évaluation Initiale des Risques) et Port d'Équipements de Protection Individuelle (EPI) pour le Prélèvement d'un Cas Suspect de COVID-19.
 
 
 ### Contexte et Objectif : 

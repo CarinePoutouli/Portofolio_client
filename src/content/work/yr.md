@@ -1,19 +1,19 @@
 ---
-title: Codirection du mémoire
+title: Codirection de mémoire
 publishDate: 2024-11-03 
 img: /assets/stock-12.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - De
+  - Br
+  - Bac
 ---
 
 ## Nom du Projet : 
 
-> Codirection du mémoire
+> Codirection de mémoire
 
 
 

@@ -1,18 +1,18 @@
 ---
-title: Déclenchement dans le village de AKEPEDO de le cadre des activités de TOGO SANDAL 2023
+title: Déclenchement dans le village de AKEPEDO dans le cadre des activités du TOGO SANDAL 2023.
 publishDate: 2024-11-03 
 img: /assets/stock-5.jpeg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   
 tags:
-  - Design
-  - Branding
+  - De
+  - Br
 ---
 
 ## Nom du Projet : 
 
-> Déclenchement dans le village de AKEPEDO de le cadre des activités de TOGO SANDAL 2023. L'assainissement Total piloté par la communauté
+> Déclenchement dans le village de AKEPEDO dans le cadre des activités du TOGO SANDAL 2023. L'assainissement Total piloté par la communauté.
 
 
 ### Contexte et Objectif : 

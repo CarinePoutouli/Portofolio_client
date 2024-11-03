@@ -1,18 +1,18 @@
 ---
-title: Etat situationnel de l'assainissement de zones à risques d'inondations à Baguida en 2019
+title: Etat situationnel de l'assainissement des zones à risques d'inondations à Baguida en 2019.
 publishDate: 2024-11-03 
 img: /assets/stock-9.jpeg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
 
 tags:
-  - Design
-  - Branding
+  - De
+  - Br
 ---
 
 ## Nom du Projet : 
 
-> Etat situationnel de l'assainissement de zones à risques d'inondations à Baguida en 2019
+> Etat situationnel de l'assainissement de zones à risques d'inondations à Baguida en 2019.
 
 ### Contexte et Objectif : 
 

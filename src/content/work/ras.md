@@ -1,18 +1,18 @@
 ---
-title: Participation aux enterrements sécurisés pendant la période de COVID 2019.
+title: Participation aux enterrements sécurisés pendant la période de la COVID-19 en 2019.
 publishDate: 2019-10-02 00:00:00
 img: /assets/stock-10.jpeg
 img_alt: Soft pink and baby blue water ripples together in a subtle texture.
 description: |
   
 tags:
-  - Design
-  - Branding
+  - De
+  - Br
 ---
 
 ## Nom du Projet : 
 
-> Participation aux enterrements sécurisés pendant la période de COVID 2019.
+> Participation aux enterrements sécurisés pendant la période de la COVID-19 en 2019.
 
 
 ### Contexte et Objectif : 

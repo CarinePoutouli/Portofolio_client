@@ -1,19 +1,19 @@
 ---
-title: Évaluation rapide des dégâts et pertes en 2019 à BAGUIDA suite aux inondations pour le compte de ANPC
+title: Évaluation rapide des dégâts et pertes en 2019 à BAGUIDA suite aux inondations pour le compte de ANPC.
 publishDate: 2024-11-03 
 img: /assets/stock-8.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
  
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - De
+  - Br
+  - Ba
 ---
 
 ## Nom du Projet : 
 
-> Évaluation rapide des dégâts et pertes en 2019 à BAGUIDA suite aux inondations pour le compte de ANPC
+> Évaluation rapide des dégâts et pertes en 2019 à BAGUIDA suite aux inondations pour le compte de ANPC.
 
 ### Contexte et Objectif : 
 

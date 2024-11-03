@@ -1,20 +1,20 @@
 ---
-title: Plage Propre une action social et civique chaque Samedi
+title: Plage Propre une action social et civique chaque Samedi.
 publishDate: 2024-11-03
 img: /assets/stock-3.jpeg
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
   
 tags:
-  - Design
-  - Dev
-  - Branding
+  - De
+  - De
+  - Br
 ---
 
 
 ## Nom du Projet : 
 
-> Plage Propre une action social et civique chaque Samedi sur la plage de Lomé
+> Plage Propre une action social et civique chaque Samedi sur la plage de Lomé.
 
 
 ### Contexte et Objectif : 

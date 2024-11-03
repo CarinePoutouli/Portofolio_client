@@ -1,19 +1,19 @@
 ---
-title: Désinfection des voitures et des bureaux de 'ANPC en 2019
+title: Désinfection des voitures et des bureaux de l'ANPC en 2019.
 publishDate: 2024-11-03
 img: /assets/stock-11.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
   
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - De
+  - Br
+  - Ba
 ---
 
 ## Nom du Projet : 
 
-> Désinfection des voitures et des bureaux de 'ANPC en 2019
+> Désinfection des voitures et des bureaux de l'ANPC en 2019.
 
 ### Contexte et Objectif : 
 

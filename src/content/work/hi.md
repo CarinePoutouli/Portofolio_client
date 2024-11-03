@@ -1,19 +1,19 @@
 ---
-title: Supervision des agents enquêteurs dans la préfecture de Bas Mono et des Lacs dans le cadre de codirection de Travail de Fin d'études
+title: Supervision des agents enquêteurs dans la préfecture du Bas Mono et des Lacs dans le cadre de la codirection de Travail de Fin d'études.
 publishDate: 2024-11-03 
 img: /assets/stock-7.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
 
 tags:
-  - Dev
-  - Branding
-  - Backend
+  - De
+  - Br
+  - Ba
 ---
 
 ## Nom du Projet : 
 
-> Supervision des agents enquêteurs dans la préfecture de Bas Mono et des Lacs dans le cadre de codirection de Travail de Fin d'études
+> Supervision des agents enquêteurs dans la préfecture de Bas Mono et des Lacs dans le cadre de la codirection de Travail de Fin d'études.
 
 ### Contexte et Objectif : 
 
