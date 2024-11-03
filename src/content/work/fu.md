@@ -1,16 +1,15 @@
 ---
-title: EIR, Port d'EPI pour le prélèvement d'un cas suspect a COVID
-publishDate: 2024-11-03
-img: /assets/stock-2.jpeg
+title: Formation des praticiens des formations sanitaires privées sur la Gestion du Programme
+publishDate: 2024-11-03 
+img: /assets/stock-4.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  
+ 
 tags:
   - Dev
   - Branding
   - Backend
 ---
-
 
 ## Nom du Projet : 
 
