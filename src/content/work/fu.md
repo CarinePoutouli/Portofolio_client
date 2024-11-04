@@ -13,26 +13,13 @@ tags:
 
 ## Nom du Projet : 
 
-> EIR (Évaluation Initiale des Risques) et Port d'Équipements de Protection Individuelle (EPI) pour le Prélèvement d'un Cas Suspect de COVID-19.
+> la Formation des prestataires des formations sanitaires privées sur le PEV ( Programme Élargi de Vaccination) et la gestion des déchets issus des ces formations sanitaires
 
 
 ### Contexte et Objectif : 
 
-Cette procédure est essentielle pour assurer la sécurité des agents de santé et limiter la propagation de la COVID-19 lors du prélèvement d'échantillons sur un cas suspect. L’Évaluation Initiale des Risques (EIR) et le port des Équipements de Protection Individuelle (EPI) permettent d’identifier les risques potentiels et d’établir des mesures de protection strictes.
-
+Cette formation vise à renforcer les compétences des prestataires des structures de santé privées en matière de vaccination dans le cadre du Programme Élargi de Vaccination (PEV) , ainsi qu'à promouvoir une gestion responsable des déchets médicaux issus de leurs activités. Cette démarche est essentielle pour améliorer la couverture vaccinale tout en assurant la sécurité sanitaire des établissements et la protection de l'environnement.
 
 ### Description :
 
-Évaluation Initiale des Risques (EIR) : Avant tout prélèvement, une évaluation rapide des risques est effectuée pour comprendre le niveau de contagion possible et préparer le matériel nécessaire. Cette étape inclut la vérification de l’état de santé du personnel, la révision des protocoles, et la préparation des EPI adaptés.
-
-Port des Équipements de Protection Individuelle (EPI) : Chaque membre de l’équipe doit porter un ensemble complet d’EPI, incluant :
-
-Masque FFP2 ou N95 pour protéger contre les particules virales en suspension.
-Visière ou lunettes de protection pour éviter tout contact avec les muqueuses des yeux.
-Blouse et gants jetables pour réduire le risque de contact avec des surfaces contaminées.
-Tablier imperméable dans les cas où il y a risque de projections de liquides.
-Prélèvement de l’échantillon : Après s’être assuré que tous les EPI sont correctement ajustés, le prélèvement est effectué avec prudence pour éviter tout risque de contamination croisée. Les échantillons sont manipulés avec précaution et sont immédiatement placés dans un conteneur sécurisé pour le transport.
-
-Décontamination et Élimination des EPI : Une fois le prélèvement terminé, les EPI doivent être enlevés selon un protocole précis pour éviter toute contamination, suivis d'une désinfection minutieuse des mains et des surfaces.
-
-
+La formation des prestataires de santé privés couvre les bases du Programme Élargi de Vaccination (PEV) et la gestion des déchets médicaux. Elle inclut la sensibilisation au PEV, l'utilisation d'équipements de protection individuelle (EPI), le tri et l'élimination sécurisée des déchets, ainsi que les pratiques de détection et d'hygiène des mains. Cette formation vise à renforcer les compétences en vaccination et à garantir une gestion responsable des déchets, assurant ainsi la sécurité sanitaire et environnementale.
