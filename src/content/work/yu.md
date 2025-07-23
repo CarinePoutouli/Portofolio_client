@@ -1,5 +1,5 @@
 ---
-title: Pompage des eaux pluviales du bassin des Deux Lions en 2019.
+title: Pompage des eaux pluviales au niveau du Bassin d’orage des DEUX LIONS en 2019
 publishDate: 2024-11-03 
 img: /assets/stock-13.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
@@ -14,7 +14,7 @@ tags:
 
 ## Nom du Projet : 
 
-> Pompage des eaux pluviales du bassin des Deux Lions en 2019.
+> Pompage des eaux pluviales au niveau du Bassin d’orage des DEUX LIONS en 2019
 
 ### Contexte et Objectif : 
 

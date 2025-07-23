@@ -1,5 +1,5 @@
 ---
-title: Formation des praticiens des formations sanitaires privées sur la Gestion du Programme?
+title: la gestion du Programme élargi de vaccination.
 publishDate: 2024-11-03 
 img: /assets/stock-4.jpeg
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
